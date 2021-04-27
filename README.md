@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-** JP Morgan **
+**JP Morgan**
 
 * JP Morgan was founded in 19th century.
 
