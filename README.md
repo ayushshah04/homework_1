@@ -9,7 +9,7 @@
 
 * JP Morgan was founded by John Pierpont Morgan.
 
-* JP Morgan is one the biggest financial instution in american they do not want to left behind in the "Amazon-ed".
+* JP Morgan is one the biggest financial instution in american they do not want to left behind in the "Amazon-ed" world.
 
 * JP Morgan is the first the major bank to lead the path in digital currency.
 
@@ -17,9 +17,14 @@
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+* With JPM coin JP Morgan initiative to  in long way to legitimizing
+cryptocurrency.   
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* JPM Coin is JP Morgan way to help their large client base and customer to have easy and legitiment way into the cryptocurrency. and with create the smart contracts like  
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
