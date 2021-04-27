@@ -3,7 +3,7 @@
 
 ## Overview and Origin
 
-* JP Morgan
+** JP Morgan **
 
 * JP Morgan was founded in 19th century.
 
@@ -11,7 +11,7 @@
 
 * JP Morgan is one the biggest financial instution in american they do not want to left behind in the "Amazon-ed".
 
-* JP Morgan is the first the major bank to lead the way path.
+* JP Morgan is the first the major bank to lead the path in digital currency.
 
 
 ## Business Activities:
