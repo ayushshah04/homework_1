@@ -78,8 +78,13 @@ be use by regular people and help business in transaction. So that they can use 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+* The advise that i would give is that they need make JPM coin more secure and try to safe so they don't have see the 50 Million dollar hack and also make this coin availabe in the mobil app so that all the J.P Morgan customer can use it.
+
 * Why do you think that offering this product or service would benefit the company?
+
+* The JPM Coin is J.P Morgan stay in the game kind product so people do think that they are out the game. and not keeping up with the technology.
 
 * What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
+* They can use this technologie for their home loan and diffrent loan where customer has to pay for the title fees and other fees to bank they can reduce that fees and have less burdon on customer.
+
