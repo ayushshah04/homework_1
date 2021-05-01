@@ -43,25 +43,36 @@ be use by regular people and help business in transaction. So that they can use 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-
+* At the this time JPM Coins  is using the Ethereum and Quorum that is built on top of it.
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
+* JPM Coin is the banking and asset managing sector. 
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* Specially in banking sector one of the biggest change has come it's the cryptocurrency that change the landscape how people send money with each other and how big transaction happen at less than a fraction of the price compare to tradional transaction. 
 
 * What are the other major companies in this domain?
 
+* For JPM coin one the major competion is the cryptocurrency itself they don't want have people to lose faith in bank that backs buy goverment.   
 
 ## Results
 
 * What has been the business impact of this company so far?
 
+* So far J.P. Morgan clients to transfer US Dollars held on deposit with J.P. Morgan. JPM Coin facilitates real-time value movement, helping to solve common hurdles of traditional cross-border payments.
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* The one of the metrics that this companies uses in this domain is how many tracsaction happen and how quick and safe is turn around. 
 
 * How is your company performing relative to competitors in the same domain?
 
+* JPM is performing is ahead of the compition because they are not fighting againts crypto world but the company that do transaction in the Dolllar price. and they are using their repution to gain more trust from customer.
+ 
 
 ## Recommendations
 
