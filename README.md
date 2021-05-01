@@ -37,7 +37,7 @@ be use by regular people and help business in transaction. So that they can use 
 * According to their 2020 Financial Report company has **276B in Client Asset Flow** with the help of the JPM Coin if they can move that money easily around with no transaction fee or have easy acess they can give their clien ease and more mobility for their money. 
 
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * One of the biggest advantage that JPM coin has that other doesn't have is the they have huge client base and since they are one the larget bank they have enough media coverage that give them  edge from their customer and since they are long in the business that give them customer trust and likebilaity.
 
