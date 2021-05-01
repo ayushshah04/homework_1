@@ -1,6 +1,6 @@
 
 
-# JPM Coin
+# **JPM Coin**
 
 ## Overview and Origin
 
