@@ -1,6 +1,6 @@
 
 
-# TITLE
+# JPM Coin
 
 ## Overview and Origin
 
