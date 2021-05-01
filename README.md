@@ -6,7 +6,7 @@
 
 * Name of company
 
-**JP Morgan**
+*JP Morgan*
 
 * When was the company incorporated?
 
